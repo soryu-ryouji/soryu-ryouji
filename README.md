@@ -1,8 +1,8 @@
 ### Hello👋, I'm Ryouji!
 
-I'm a game programmer.
+I'm a game programmer in China.
 
-I Love Open Source、vim and all kinds of fun things.
+I love Open Source, vim and all kinds of fun things.
 
 <!--
 **soryu-ryouji/soryu-ryouji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
